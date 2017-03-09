@@ -10,6 +10,9 @@ public abstract class Test_01 {
 		System.out.println("hola32");
 		System.out.println("hola32");
 		System.out.println("hola39");
+		int a=3;
+		int b=0;
+		int c=a/b;
 
 	}
 
