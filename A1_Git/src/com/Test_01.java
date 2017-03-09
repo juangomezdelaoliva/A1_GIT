@@ -9,7 +9,7 @@ public abstract class Test_01 {
 	public static void main(String[] args) {
 		System.out.println("hola32");
 		System.out.println("hola32");
-		System.out.println("hola36");
+		System.out.println("hola37");
 
 	}
 
